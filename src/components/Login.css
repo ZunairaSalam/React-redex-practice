@@ -1,0 +1,19 @@
+@media all and (min-width: 480px) {
+  .flexContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+  }  
+  .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+    .btn-block {
+    width: fit-content;
+    }
+  }
